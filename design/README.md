@@ -4,11 +4,11 @@
 
 ## Building your project
 
-This exercise involves a lot of planning and comminication.
+This exercise involves a lot of planning and communication.
 
 ### General Workflow
 
-1. Work in a team of 4 or 5
+1. Work in a team of 4
 2. You will have only one repository per team
 3. Split up in groups of 2 to work effectively in pair programming
 4. Use a git workflow with branches to create this group project
@@ -20,7 +20,6 @@ This exercise involves a lot of planning and comminication.
 1. Identify the components in the design
 2. Only work on one component per pair per time
    - For example: Harry, Ron, Hermione and Neville are in a team. After they identified all the components of the page, they split up in pairs. Ron and Harry work on the header on a branch `app-header` while Hermione and Neville work on a card on a branch `card`. After Ron and Harry are done, they create a pull request and _only_ merge their branch into `main` after a code review from Hermione and Neville. Now Hermione and Neville merge the updated `main` branch into their branch. Harry and Ron start a new component.
-3. Build the component in storybook first, then add it to the index.html
 
 ## The challenge
 
